@@ -6,6 +6,8 @@ A Simple Text to Speech Portable Software for Windows
 
 ![](https://raw.githubusercontent.com/adriancs2/SimpleText2Speech/master/wiki/02.png)
 
+![](https://raw.githubusercontent.com/adriancs2/SimpleText2Speech/master/wiki/03.png)
+
 This software uses voices installed on Windows.
 
 Instructions to install more voices:
