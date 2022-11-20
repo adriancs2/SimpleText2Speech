@@ -1,6 +1,6 @@
 # Simple Text to Speech for Windows
 
-A Simple Text to Speech Portable Software for Windows
+A Simple Text to Speech Software for Windows. Written in C#. It uses Windows built-in speech synthesis to read the text.
 
 ![](https://raw.githubusercontent.com/adriancs2/SimpleText2Speech/master/wiki/01.png)
 
